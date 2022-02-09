@@ -146,7 +146,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}	
 	
-	"BETAText"
+	"BETAText" //I'm more of an Alpha
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"	"BETAText"
@@ -157,7 +157,7 @@
 		"tall"	"20"
 		"visible"	"1"
 		"enabled"	"1"
-		"labelText"	"BETA"
+		"labelText"	"ALPHA v1.0.0"
 		"textAlignment"	"east"
 		"textinsetx"	"20"
 		"fgcolor"	"255 255 255 255"
@@ -171,17 +171,17 @@
 		"xpos"	"20"
 		"ypos"	"28"
 		"zpos"	"2"
-		"wide"	"300"
+		"wide"	"450"
 		"tall"	"70"
 		"visible"	"1"
 		"enabled"	"1"
-		"labelText"	"SolarLightHUD"
+		"labelText"	"Welcome to Team Fortress 2"
 		"textAlignment"	"west"
 		"fgcolor"	"255 255 255 255"
 		"font"	"Futura56"
 	}		
 	
-	"FrontParticlePanelUnusualLogo"
+	"FrontParticlePanelUnusualLogo" //Releated to hat thing
 	{
 		"ControlName"	"CTFParticlePanel"
 		"fieldName"		"FrontParticlePanelUnusualLogo"
@@ -190,8 +190,8 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
-		"proportionaltoparent"	"1"
+		"visible"		"0"
+		"proportionaltoparent"	"0"
 
 		"ParticleEffects"
 		{
@@ -216,7 +216,7 @@
 		"xpos"			"20"
 		"ypos"			"83"
 		"zpos"			"0"
-		"wide"			"285"
+		"wide"			"450"
 		"tall"			"5"
 		"fillcolor"		"SolarMenuYellow"
 		"autoResize"	"0"
@@ -225,7 +225,7 @@
 		"enabled"		"1"
 	}	
 	
-	"HatLogo"
+	"HatLogo" //Shows the weird hat, gotta do something with that
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HatLogo"
@@ -234,8 +234,8 @@
 		"zpos"			"-12"
 		"wide"			"47"
 		"tall"			"47"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../vgui/logos/menutextures/hatlogo"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -250,8 +250,8 @@
 		"zpos"		"0"
 		"wide"		"47"
 		"tall"		"47"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"labelText"		""
 		"textAlignment"	"center"
 		"Command"		"engine play vo/compmode/cm_demo_pregamefirst_6s_02.mp3"
@@ -275,11 +275,11 @@
 		"xpos"	"22"
 		"ypos"	"82"
 		"zpos"	"2"
-		"wide"	"170"
+		"wide"	"470"
 		"tall"	"30"
 		"visible"	"1"
 		"enabled"	"1"
-		"labelText"	"Enjoy the summer sun"
+		"labelText"	"After nine years in development, hopefully it will have been worth the wait."
 		"textAlignment"	"west"
 		"fgcolor"	"255 255 255 255"
 		"font"	"Asimov16"
@@ -304,7 +304,7 @@
 		"tall"	"30"
 		"visible"	"1"
 		"enabled"	"1"
-		"labelText"	"Last updated July 20th, 2018"
+		"labelText"	"Thanks, and have fun!"
 		"textAlignment"	"west"
 		"fgcolor"	"255 255 255 255"
 		"font"	"Asimov12"

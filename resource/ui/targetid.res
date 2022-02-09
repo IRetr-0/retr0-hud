@@ -35,7 +35,7 @@
 		"ypos"			"5"
 		"zpos"			"-10"
 		"wide"			"f0"
-		"tall"			"20"
+		"tall"			"15"
 		"fillcolor"		"0 0 0 200"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -91,7 +91,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Asimov20"
+		"font"			"Asimov12"
 		"xpos"			"0"
 		"ypos"			"6"
 		"zpos"			"1"
@@ -112,7 +112,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabelSolarLightHUD"
-		"font"			"Asimov20"
+		"font"			"Asimov12"
 		"xpos"			"55"
 		"ypos"			"6"
 		"zpos"			"1"
@@ -132,7 +132,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabelSolarLightHUDShadow"
-		"font"			"Asimov20"
+		"font"			"Asimov12"
 		"xpos"			"56"
 		"ypos"			"7"
 		"zpos"			"1"
@@ -152,7 +152,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Asimov12"
+		"font"			"Asimov8"
 		"xpos"			"0"
 		"ypos"			"24"	[$WIN32]
 		"zpos"			"1"
@@ -173,7 +173,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabelSolarLightHUDShadow"
-		"font"			"Asimov12"
+		"font"			"Asimov8"
 		"xpos"			"56"
 		"ypos"			"22"	[$WIN32]
 		"zpos"			"1"

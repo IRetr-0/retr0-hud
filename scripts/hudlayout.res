@@ -463,7 +463,7 @@
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Asimov12"
+		"TextFont"		"Asimov8"
 		
 		"TeamBlue"		"SolarTeamBLU"
 		"TeamRed"		"SolarTeamRED"
