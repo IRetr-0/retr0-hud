@@ -161,7 +161,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"20"
 		"fgcolor"	"255 255 255 255"
-		"font"	"Futura20"
+		"font"	"Futura12"
 	}		
 	
 	"SolarLightHUDText"
