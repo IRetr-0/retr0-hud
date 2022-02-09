@@ -8,3 +8,6 @@ https://github.com/SolarLightTF2/SolarLightHUD
 1. head to your install folder located at `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 2. Extract the zip leaving the folder structure like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\retr0-hud-{branch}`
 3. It's ovah
+
+Gif thingy:
+![Main_Menu](https://github.com/IRetr-0/retr0-hud/blob/master/media-files/main_menu.gif)
